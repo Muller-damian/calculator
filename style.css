@@ -1,0 +1,45 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.c_body{
+    background-color: black;
+    width: fit-content;
+    display: block;
+    margin-inline: auto;
+    padding: 5px;
+}
+.display {
+    background-color: black;
+    color: white;
+    height: 80px;
+    width: 240px;
+    font-size: 35px;
+    position: relative;
+    text-align: right;
+    border: none;
+}
+.btn{
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    margin: 4px ;
+    border: none;
+    border-radius: 50%;
+    font-size: 20px;
+}
+.ash{
+    background-color: rgb(198, 194, 194);
+}
+.orange{
+    background-color: orange;
+    color: white;
+}
+.gray{
+    color: white;
+    background-color: rgb(56, 54, 54);
+}
+#zero{
+    width: 112px;
+    border-radius: 35px;
+}
